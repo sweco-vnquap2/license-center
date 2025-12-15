@@ -1813,5 +1813,17 @@
     "keyType": 7,
     "start": "2025-12-11T00:00:00",
     "expire": "2025-12-18T00:00:00"
-  }
+  },
+  {
+    "hdd": "NVMe Sandisk PC SN5000S SDEPNSJ-1T00-1132-E823_8FA6_BF53_0001_001B_448B_421B_0AFE.-SCSI",
+    "tenNguoiDung": "luongson",
+    "email": "luongson113@gmail.com",
+    "sdt": "0979724287",
+    "loaiOCung": "Ổ cứng gắn trong",
+    "tenOCung": "",
+    "keyType": 365,
+    "start": "2025-09-03T00:00:00",
+    "expire": "2026-09-03T00:00:00"
+  },
+
 ]
