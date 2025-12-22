@@ -1825,5 +1825,27 @@
     "start": "2025-09-03T00:00:00",
     "expire": "2026-09-03T00:00:00"
   },
-
+    {
+    "hdd": "SAMSUNG MZVLB512HBJQ-00000-0025_3887_1140_224A.-SCSI",
+    "tenNguoiDung": "Nguyễn Thế Anh",
+    "email": "v.anhnt342@vinhomes.vn",
+    "sdt": "0986093669",
+    "loaiOCung": "Ổ cứng gắn trong",
+    "tenOCung": "",
+    "keyType": 365,
+    "start": "2025-12-22T00:00:00",
+    "expire": "2026-12-22T00:00:00"
+  },
+    {
+    "hdd": "SAMSUNG MZVL4512HBLU-00BH1-0025_38E1_41B1_348F.-SCSI",
+    "tenNguoiDung": "Vũ Hoàng Nguyên",
+    "email": "v.nguyenvh1@vinhomes.vn",
+    "sdt": "0904350012",
+    "loaiOCung": "Ổ cứng gắn trong",
+    "tenOCung": "",
+    "keyType": 365,
+    "start": "2025-12-22T00:00:00",
+    "expire": "2026-12-22T00:00:00"
+  },
 ]
+
