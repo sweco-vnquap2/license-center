@@ -1858,6 +1858,29 @@
     "start": "2025-12-22T00:00:00",
     "expire": "2026-12-22T00:00:00"
   },
+        {
+    "hdd": "WD PC SN740 SDDPNQD-512G-1006-E823_8FA6_BF53_0001_001B_448B_4E05_02CB.-SCSI",
+    "tenNguoiDung": "Nguyễn Văn Cường",
+    "email": "v.cuongnv118@vinhomes.vn",
+    "sdt": "0344101668",
+    "loaiOCung": "Ổ cứng gắn trong",
+    "tenOCung": "",
+    "keyType": 365,
+    "start": "2025-12-22T00:00:00",
+    "expire": "2026-12-22T00:00:00"
+  },
+      {
+    "hdd": "PC SN740 NVMe WD 512GB-E823_8FA6_BF53_0001_001B_448B_4A89_AEBC.-SCSI",
+    "tenNguoiDung": "Nguyễn Tiến Thịnh Anh",
+    "email": "v.anhntt48@vinhomes.vn",
+    "sdt": "0987506689",
+    "loaiOCung": "Ổ cứng gắn trong",
+    "tenOCung": "",
+    "keyType": 365,
+    "start": "2025-12-22T00:00:00",
+    "expire": "2026-12-22T00:00:00"
+  },
 ]
+
 
 
