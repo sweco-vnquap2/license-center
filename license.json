@@ -1847,5 +1847,17 @@
     "start": "2025-12-22T00:00:00",
     "expire": "2026-12-22T00:00:00"
   },
+      {
+    "hdd": "BC711 NVMe SK hynix 512GB-FFFF_FFFF_FFFF_FFFF.-SCSI",
+    "tenNguoiDung": "Tạ Bạch Hưng",
+    "email": "v.hungtb2@vinhomes.vn",
+    "sdt": "0984843315",
+    "loaiOCung": "Ổ cứng gắn trong",
+    "tenOCung": "",
+    "keyType": 365,
+    "start": "2025-12-22T00:00:00",
+    "expire": "2026-12-22T00:00:00"
+  },
 ]
+
 
