@@ -1891,7 +1891,19 @@
     "start": "2025-12-22T00:00:00",
     "expire": "2026-12-22T00:00:00"
   },
+   {
+    "hdd": "KBG40ZNS512G NVMe KIOXIA 512GB-0100_0000_0000_0000_8CE3_8E04_02EA_434E.-SCSI",
+    "tenNguoiDung": "Hà Anh Thụy",
+    "email": "v.thuyha1@vinhomes.vn",
+    "sdt": "0985489926",
+    "loaiOCung": "Ổ cứng gắn trong",
+    "tenOCung": "",
+    "keyType": 365,
+    "start": "2025-12-22T00:00:00",
+    "expire": "2026-12-22T00:00:00"
+  },
 ]
+
 
 
 
