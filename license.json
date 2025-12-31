@@ -1902,7 +1902,19 @@
     "start": "2025-12-22T00:00:00",
     "expire": "2026-12-22T00:00:00"
   },
+  {
+    "hdd": "KXG8AZNV512G LA KIOXIA-8CE3_8E05_010D_62F4.-SCSI",
+    "tenNguoiDung": "Đỗ Quang Duy",
+    "email": "v.duydq3@vinhomes.vn",
+    "sdt": "0981639393",
+    "loaiOCung": "Ổ cứng gắn trong",
+    "tenOCung": "",
+    "keyType": 365,
+    "start": "2025-12-22T00:00:00",
+    "expire": "2026-12-22T00:00:00"
+  },
 ]
+
 
 
 
