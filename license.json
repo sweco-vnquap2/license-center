@@ -1924,7 +1924,19 @@
     "start": "2025-12-22T00:00:00",
     "expire": "2026-12-22T00:00:00"
   },
+   {
+    "hdd": "SAMSUNG MZVLB1T0HBLR-00000-0025_3887_11C1_B556.-SCSI",
+    "tenNguoiDung": "quangnv67",
+    "email": "v.quangnv67@vinhomes.vn",
+    "sdt": "035982217",
+    "loaiOCung": "Ổ cứng gắn trong",
+    "tenOCung": "",
+    "keyType": 365,
+    "start": "2025-12-22T00:00:00",
+    "expire": "2026-12-22T00:00:00"
+  },
 ]
+
 
 
 
